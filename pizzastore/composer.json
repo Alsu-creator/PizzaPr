@@ -1,0 +1,11 @@
+{ 
+    "repositories": [ 
+        { 
+            "type": "path", 
+            "url": "../pizza" 
+        } 
+    ], 
+    "require": { 
+        "lulldev/pizza": "@dev" 
+    } 
+} 
